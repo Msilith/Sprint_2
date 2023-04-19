@@ -1,2 +1,2 @@
 # Sprint_4
-ProjectFor2nsSprint
+ProjectFor4sSprint
